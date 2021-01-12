@@ -1,4 +1,4 @@
 # Mira-Technology Internship || GitHub Assessment
 
 ### Description
-A collection of all assignments in WeJapa NodeJS Internship
+This assignment is to test the efficient use of git version control.
